@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "GoofySmpReboot.aternos.me",
+    "ip": "GoofySmpReboot.aternos.me:61222",
     "port": 61222,
     "version": "",
     "try-creative": false
